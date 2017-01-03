@@ -1,0 +1,20 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Wystąpił problem z płatnością w sklepie {shop_name} dla zamówienia {order_name}. Prosimy o kontakt tak szybko jak to możliwe.
+
+TWOJE ZAMÓWIENIE NIE ZOSTANIE ZREALIZOWANE DO CZASU WYJAŚNIENIA NIEJASNOŚCI. 		 
+Podgląd zamówienia i faktura są dostępne w sekcji
+“Historia zamówienia” [{history_url}] dostępnej poprzez kliknięcie
+na zakładkę “Moje konto”
+[{my_account_url}]. 
+
+Jeśli posiadasz konto gościa, zamówienie możesz śledzić poprzez link
+“Śledzenie Zakupów Gości” 
+[{guest_tracking_url}?id_order={order_name}].  
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

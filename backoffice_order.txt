@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Zostało wygenerowane dla Ciebie nowe zamówienie. 
+
+Przejdź do {order_link} [{order_link}] aby sfinalizować zamówienie. 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

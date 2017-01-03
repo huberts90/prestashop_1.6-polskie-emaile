@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+{reply} 
+
+Proszę nie odpowiadać na ten e-mail, nie dostaniemy tej wiadomości. 
+
+Aby odpowiedzieć, prosimy użyć tego linku: {link}
+[{link}] 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

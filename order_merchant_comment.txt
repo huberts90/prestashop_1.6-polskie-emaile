@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Otrzymałeś nową wiadomość ze sklepu {shop_name} dotyczącą zamówienia {order_name}.
+
+TREŚĆ WIADOMOŚCI: {message} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

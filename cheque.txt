@@ -1,0 +1,30 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname},
+
+Dziękujemy za zakupy w {shop_name}! 
+
+Twoje zamówienie {order_name} zostało złożone i ZREALIZUJEMY JE GDY TYLKO OTRZYMAMY OD CIEBIE ZAPŁATĘ. 
+
+Wybrałeś czek jako metodę płatności. 
+
+Proszę wysłać czek na poniższe dane:
+
+CAŁKOWITA KWOTA DO ZAPŁATY: {total_paid}
+
+Z TYTUŁU: {cheque_name}
+
+PROSILY O WYSYŁKĘ CZEKU NA ADRES: {cheque_address} 		 
+
+Podgląd zamówienia i faktura są dostępne w sekcji
+“Historia zamówienia” [{history_url}] dostępnej poprzez kliknięcie
+na zakładkę “Moje konto”
+[{my_account_url}]. 
+
+Jeśli posiadasz konto gościa, zamówienie możesz śledzić poprzez link
+“Śledzenie Zakupów Gości” [{guest_tracking_url}].
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

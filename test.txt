@@ -1,0 +1,11 @@
+
+[{shop_url}] 
+
+Witaj
+Oto testowy E-MAIL z Twojego sklepu.
+
+Jeśli czytasz tą wiadomość, to oznacza, że test przebiegł pomyślnie.
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

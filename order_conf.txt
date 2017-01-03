@@ -1,0 +1,69 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname},
+
+Dziękujemy za złożenie zamówienia w sklepie {shop_name}! 
+
+ZAMÓWIENIE: {order_name} Złożone dnia {date}
+
+PŁATNOŚĆ: {payment} 		 
+
+REFENRCJA
+
+PRODUKT
+
+WALUTA
+
+ILOŚĆ
+
+CAŁKOWITA KWOTA
+
+{products_txt} 
+
+{discounts} 
+
+PRODUKTU 
+
+{total_products} 
+
+ZNIŻKI 
+
+{total_discounts} 
+
+PAKOWANIE NA PREZENT 
+
+{total_wrapping} 
+
+DOSTAWA 
+
+{total_shipping} 
+
+PODATEK 
+
+{total_tax_paid} 
+
+CAŁKOWITA KWOTA DO ZAPŁATY 
+
+{total_paid} 
+
+PRZEWOŹNIK: {carrier}
+
+PŁATNOŚĆ: {payment} 		 
+
+{delivery_block_txt} 
+
+{invoice_block_txt} 
+
+Podgląd zamówienia i faktura są dostępne w sekcji
+“Historia zamówienia” [{history_url}] dostępnej poprzez kliknięcie
+na zakładkę “Moje konto”
+[{my_account_url}]. 
+
+Jeśli posiadasz konto gościa, zamówienie możesz śledzić poprzez link
+“Śledzenie Zakupów Gości” 
+[{guest_tracking_url}?id_order={order_name}]. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

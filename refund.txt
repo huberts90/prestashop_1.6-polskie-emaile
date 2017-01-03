@@ -1,0 +1,19 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Proces zwrotu płatności za zamówienie {order_name} w sklepie {shop_name} został zakończony.
+
+Podgląd zamówienia i faktura są dostępne w sekcji
+“Historia zamówienia” [{history_url}] dostępnej poprzez kliknięcie
+na zakładkę “Moje konto”
+[{my_account_url}]. 
+
+Jeśli posiadasz konto gościa, zamówienie możesz śledzić poprzez link
+“Śledzenie Zakupów Gości” 
+[{guest_tracking_url}?id_order={order_name}]. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

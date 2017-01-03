@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Informujemy, ze została wystawiona nota korygująca do zamówienia {order_name}. 
+
+Podgląd korekty płatności i faktura są dostępne w sekcji
+"Moje korekty“ [{history_url}] dostępnej poprzez kliknięcie na zakładkę ”Moje konto” [{my_account_url}].
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

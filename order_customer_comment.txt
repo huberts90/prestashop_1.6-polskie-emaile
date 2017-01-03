@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Otrzymałeś nową wiadomość od klienta dotyczącą zamówienia
+{order_name}.
+
+KLIENT: {firstname} {lastname} ({email})
+
+{message} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

@@ -1,0 +1,20 @@
+
+[{shop_url}] 
+
+Twoja wiadomość została wysłana od obsługi sklepu {shop_name}.
+
+Przesłana wiadomość.
+
+TREŚĆ WIADOMOŚCI: {message}
+
+NUMER ZAMÓWIENIA: {order_name}
+
+PRODUKT: {product_name}
+
+ZAŁĄCZNIKI: {attached_file} 		 
+
+Na Twoją wiadomość odpowiemy tak szybko jak to będzie możliwe. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

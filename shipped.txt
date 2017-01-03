@@ -1,0 +1,19 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname},
+
+Twoje zamówienie zostało wysłane.
+
+Twoje zamówienie {order_name} zostało wysłane.
+
+Dziękujemy za zakup w naszym sklepie {shop_name}! 		 
+
+Podgląd zamówienia i faktura są dostępne w sekcji
+“Historia zamówienia” [{history_url}] dostępnej poprzez kliknięcie
+na zakładkę “Moje konto”
+[{my_account_url}]. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

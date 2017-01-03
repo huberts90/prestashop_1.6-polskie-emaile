@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Do Twojego zamówienia {order_name} przesyłamy Ci gratis kupon rabatowy.
+
+KOD RABATOWY: {voucher_num} o wartości {voucher_amount}
+
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty. 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

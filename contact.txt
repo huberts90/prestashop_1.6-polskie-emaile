@@ -1,0 +1,16 @@
+
+[{shop_url}] 
+
+Wiadomość ze sklepu {shop_name}
+
+ADRES E-MAIL PODANY W FORMULARZU: {email}
+
+TREŚĆ WIADOMOŚCI: {message}
+
+NUMER ZAMÓWIENIA: {order_name}
+
+ZAŁĄCZNIKI: {attached_file} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

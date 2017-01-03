@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Oto Twój kod rabatowy: {voucher_num}
+
+Przy następnym zamówieniu, wklej ten kod do koszyka przed dokonaniem zapłaty.		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

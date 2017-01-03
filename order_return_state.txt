@@ -1,0 +1,15 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname}, 
+
+Status Twojego zwrotu #{id_order_return} został zmieniony na: "{state_order_return}"
+
+Podgląd zamówienia i faktura są dostępne w sekcji
+“Historia zamówienia” [{history_url}] dostępnej poprzez kliknięcie
+na zakładkę “Moje konto”
+[{my_account_url}].
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

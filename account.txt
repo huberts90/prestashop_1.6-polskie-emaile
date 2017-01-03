@@ -1,0 +1,29 @@
+
+[{shop_url}] 
+
+Witaj {firstname} {lastname},
+
+Dziękujemy za założenie konta w {shop_name}. 
+
+Dane Twojego konta:
+
+Adres E_MAIL: {email}
+
+HASŁO: {passwd} 		 
+
+Porady dotyczące bezpieczeństwa:
+
+* Przechowuj dane Twojego konta w bezpiecznym miejscu.
+
+* Nie ujawniaj nikomu swojego hasła.
+
+* Regularnie zmieniaj swoje hasło.
+
+* Jeśli bedziesz mieć podejrzenia, ze ktoś używa twojego konta nielegalnie, prosimy powiadomić nas o tym natychmiast.
+
+Możesz już składać zamówienia w sklepie: {shop_name}
+[{shop_url}] 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
