@@ -1,0 +1,1 @@
+# prestshop-polskie-email
